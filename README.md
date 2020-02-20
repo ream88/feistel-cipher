@@ -17,8 +17,6 @@ input
 # input
 ```
 
-![](https://media1.tenor.com/images/c7eac59fb909510e714e85de277ca81a/tenor.gif?itemid=5139389)
-
 Watch this!
 
 [![](https://img.youtube.com/vi/FGhj3CGxl8I/0.jpg)](https://www.youtube.com/watch?v=FGhj3CGxl8I)
